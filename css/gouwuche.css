@@ -1,0 +1,41 @@
+﻿
+*{margin:0px;padding:0px;border:0px;color:#333; font-family:微软雅黑;}
+ul li{ list-style:none}
+a{ text-decoration:none;}
+a:hover{ color:#e46432;}
+body{margin:auto;overflow-x:hidden;font-size:0.2em;
+
+  width: 100%;
+  background-image: url(../img/bjt.jpg);
+  background-size: 100%;
+  margin: 0;
+  background-attachment: fixed; }
+
+
+/*****购物车*********/
+.gwc{ width:63%;overflow:hidden;}
+.gwc_tb1{ width:100%; border-top:5px solid #48b9e5; background:#d0e7fa; height:38px; overflow:hidden;}
+.tb1_td1{ width:8%; text-align:center;}
+.tb1_td3{ width:8%; text-align:center; background:url(../images/td1.jpg) right no-repeat;}
+.tb1_td4{ width:32%; text-align:center; background:url(../images/td1.jpg) right no-repeat;}
+.tb1_td5{ width:14%; text-align:center; background:url(../images/td1.jpg) right no-repeat;}
+.tb1_td6{ width:14%; text-align:center; background:url(../images/td1.jpg) right no-repeat;}
+.tb1_td7{ text-align:center;}
+
+
+.gwc_tb2{ width:100%; background:#eef6ff; border:1px solid #e5e5e5; padding-top:1.6em; padding-bottom:1.6em;}
+.tb2_td1{ width:2em; text-align:center;}
+.tb2_td2{ width:3em; text-align:center;}
+.tb2_td2 img{ width:7em; border:2px solid #c9c6c7;margin-left:1em;}
+.tb2_td3{ padding-left:4em; width:32em;}
+.tb2_td3 a{ font-size:14px; line-height:12px;}
+
+.gwc_tb3{ width:100%; border:1px solid #d2d2d2; background:#e7e7e7; height:46px; margin-top:20px; }
+.gwc_tb3 tr td{font-size:0.2em;}
+.tb3_td2{ width:100px;text-align:center;}
+.tb3_td2 span{ color:#ff5500;font-size:14px; font-weight:bold; padding-left:5px; padding-right:5px; }
+.tb3_td3{ width:220px;text-align:center;}
+.tb3_td3 span{ font-size:0.2em; font-weight:bold;}
+.tb3_td4{ width:110px;text-align:center;}
+.jz2{ width:100px; height:46px; line-height:46px; text-align:center; font-size:18px; color:#fff; background:#ee0000; display:block; float:right;}
+#jz1{font-size:18px;}
